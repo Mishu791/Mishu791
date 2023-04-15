@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Momotazul Islam (Mishu) 
 - 👀 I’m interested in building Explainable and Reliable AI model 
-- 🌱 I’m currently learning Causal AI and working in the topic of Causal Structure Learning
-- 💞️ I’m looking to collaborate on any projects related to Causal Inference and Knowledge Discovery 
+- 🌱 I’m currently working as a Data Mining and AI engineer in the group Recycling and Green Battery at Fraunhofer IKTS
+- 💞️ I’m looking to collaborate on projects aimed to mine DATA and building AI solution for manufacturing processes 
 
 <!---
 Mishu791/Mishu791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
